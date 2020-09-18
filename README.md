@@ -13,6 +13,8 @@ https://webchat.freenode.net/  on channel #osdev very knowledgable people aided 
 <br>
 For one to make a productive os i say go with linuxkernel.org or linus kernel project on github here https://github.com/torvalds/linux
 <br>
+Simple put i dont believe you can by yourself create an OS now that can compete with the decades and decades of collaborative/development that went into linux, windows , or mac OS. And the object is either to learn os dev from scratch or build on existing codebases such as linux , gnu osdev ...etc
+<br>
 Osdev though is equally important because learning every detail some times outways productivity. But sometimes productivity is more important then total understanding so it depends on what frame of mind your in.
 
 Anyway uses this project as a stub to understand how to code real , 32bit protected mode , and even with a little modification long mode /64 bit mode os development. So after you are confident in all aspect of this project you should beable to write basic graphics driver programs , keyboard drives , mouse drivers, possible basic network drivers , sound drivers , HDD drivers and a basic scheduler with a basic paging/extended paging based virtual memory allocator.
